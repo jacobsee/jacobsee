@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacobsee&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacobsee&layout=compact&theme=vue-dark" />
+    </a>
+</p>
 
 <!--
 **jacobsee/jacobsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
